@@ -1,0 +1,13 @@
+{
+  "name": "road-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PWA that shows how much time you save by driving faster.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.33.1"
+  }
+}
